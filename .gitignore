@@ -1,0 +1,7 @@
+/venv
+/.idea
+/build
+/dist
+/pool_results
+/test.py
+/main.spec
